@@ -1,0 +1,10 @@
+org/foo/app23/ApiDocRegistrator.class
+org/foo/app23/AppCommand.class
+org/foo/app23/AppComponent$MyTimerTask.class
+org/foo/app23/AppComponent$MonitoringPacketProcessor.class
+org/foo/app23/AppComponent$CrearCSV.class
+org/foo/app23/AppWebResource.class
+org/foo/app23/AppComponent$1.class
+org/foo/app23/AppComponent$InternalFlowRuleListener.class
+org/foo/app23/AppWebApplication.class
+org/foo/app23/AppComponent.class
